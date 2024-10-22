@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    int "*", " ";
+    5<=lebar<=75
+    10<=panjang<=100
+
+    return 0;
+}
